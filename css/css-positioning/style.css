@@ -1,0 +1,29 @@
+div {
+  width: 50%;
+  margin: 1rem;
+  padding: 1rem;
+  border: 0.2rem solid black;
+}
+img {
+  width: 100%;
+}
+
+.div-1 {
+  background-color: lightblue;
+  position: relative;
+  z-index: 1;
+}
+.div-2 {
+  background-color: lightcoral;
+  position: absolute;
+  top: 10rem;
+  margin-left: 50%;
+}
+.div-3 {
+  background-color: lightpink;
+  position: sticky;
+  top: 20rem;
+}
+.div-4 {
+  background-color: lightyellow;
+}
