@@ -1,0 +1,26 @@
+/* selectors  */
+
+/* chosse both selectors */
+h1,
+h2 {
+  color: chocolate;
+}
+
+/* parent goes to immidiate next one like div > div(changes apply on this div)  */
+.parent > .child {
+  color: rosybrown;
+}
+
+/* descendant select all li inside div */
+.parent li {
+  color: blueviolet;
+}
+
+/* chaining  */
+p.para-1 {
+  color: hotpink;
+}
+
+ol li.big {
+  color: seagreen;
+}
