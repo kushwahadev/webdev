@@ -1,0 +1,17 @@
+h1 {
+  border: 10px solid rgb(130, 33, 130);
+  border-width: 10px 20px 30px 40px;
+}
+
+p {
+  padding: 10px 20px 30px 40px;
+}
+
+img {
+  border: 10px solid magenta;
+  padding: 2rem;
+}
+
+/*  classes tags  */
+
+/*  ID tags  */
