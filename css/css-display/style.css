@@ -1,0 +1,54 @@
+.red {
+  display: inline-block;
+
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.green {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+.blue {
+  display: inline-block;
+
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+p {
+  color: aliceblue;
+  text-transform: capitalize;
+}
+
+h2 {
+  color: darkkhaki;
+}
+div {
+  margin: 0.5rem;
+  padding: 1rem;
+}
+
+.v-div-1 {
+  display: block;
+
+  width: 200px;
+  height: 200px;
+  background-color: magenta;
+}
+.v-div-2 {
+  display: block;
+  width: 200px;
+  height: 200px;
+  background-color: burlywood;
+}
+.v-div-3 {
+  display: block;
+
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+}
