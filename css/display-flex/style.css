@@ -1,0 +1,40 @@
+li {
+  list-style: none;
+}
+nav > li > a {
+  color: rgb(255, 221, 84);
+  text-decoration: none;
+  font-size: 1.5rem;
+  padding-left: 1rem;
+}
+
+nav {
+  display: flex;
+  gap: 4rem;
+  padding: 1rem;
+  background-color: darkslategray;
+  border-radius: 1rem;
+  margin: 2rem;
+}
+
+nav > h4 {
+  margin: 0px;
+  color: deeppink;
+  font-size: 1.5rem;
+  padding-left: 1rem;
+}
+
+.flx-basis {
+  display: flex;
+  background-color: lightsalmon;
+  justify-content: space-around;
+  align-items: center;
+}
+.flx-basis > * {
+  flex-basis: 100px;
+}
+.flx-basis > li > a {
+  color: rgb(200, 83, 60);
+  text-decoration: none;
+  font-size: 1.5rem;
+}
